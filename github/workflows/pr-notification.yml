@@ -1,6 +1,8 @@
 name: PR Notification
 on:
-  pull_request:
+  # เปลี่ยนจาก pull_request เป็น pull_request_target
+  # เพื่อให้บอทมีสิทธิ์ Comment ใน PR ที่มาจาก Fork (คนนอก)
+  pull_request_target:
     types: [opened]
 
 permissions:
@@ -11,15 +13,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Comment and Tag Owner
-        if: github.actor != 'friend-username'
+        # อย่าลืมแก้ 'friend-username' เป็นชื่อ GitHub เพื่อนคุณจริงๆ (ถ้ายังไม่ได้แก้)
+        if: github.actor != 'Narathip1707'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PR_URL: ${{ github.event.pull_request.html_url }}
+          # สำหรับ pull_request_target ต้องใช้ event.number เพื่อหา URL
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          REPO: ${{ github.repository }}
           OWNER: "@Narathip1707"
         run: |
-          gh pr comment "$PR_URL" --body 🚀 มี Pull Request ใหม่เข้ามาครับลูกพี่!
+          # แก้ไข Syntax: ใส่ " ครอบข้อความหลัง --body
+          # และปรับวิธีหา URL ให้รองรับ pull_request_target
+          
+          gh pr comment "$PR_NUMBER" --repo "$REPO" --body "🚀 มี Pull Request ใหม่เข้ามาครับลูกพี่!
 
           ผู้ส่ง: @${{ github.actor }}
           ถึง: $OWNER (รบกวนตรวจสอบด้วยครับ)
-          (แจ้งเตือนอัตโนมัติโดย GitHub Actions 🤖)
-          "
+          
+          (แจ้งเตือนอัตโนมัติโดย GitHub Actions 🤖)"
