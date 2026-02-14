@@ -1,0 +1,27 @@
+name: Test Welcome Bot
+on:
+  # ใช้ pull_request ธรรมดา เพื่อให้เทสใน Fork ตัวเองได้ทันที
+  pull_request:
+    types: [opened]
+
+permissions:
+  pull-requests: write # ขอสิทธิ์เขียนคอมเมนต์
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Comment on PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          REPO: ${{ github.repository }}
+          ACTOR: ${{ github.actor }}
+        run: |
+          gh pr comment "$PR_NUMBER" \
+            --repo "$REPO" \
+            --body "🎉 ไชโย! โฟลเดอร์ถูกต้องแล้วครับ @$ACTOR 
+            
+            บอททำงานสมบูรณ์แบบ! พร้อมส่งให้เพื่อนแล้วครับ 🚀
+            
+            (Test from valid .github/workflows folder)"
