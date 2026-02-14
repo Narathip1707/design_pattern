@@ -1,23 +1,25 @@
-name: Test Bot on Fork
+name: Contributor Welcome Bot
 on:
-  # ใช้ pull_request ธรรมดา เพื่อให้มันอ่านไฟล์จาก Branch เราได้เลย
+  # ✅ ใช้ pull_request ธรรมดาก่อน เพื่อให้ Test ใน Fork ตัวเองได้ทันที
   pull_request:
-    types: [opened, synchronize]
+    types: [opened]
 
 permissions:
-  pull-requests: write # ขอสิทธิ์เขียนคอมเมนต์
+  pull-requests: write # ขออนุญาตเขียนคอมเมนต์
 
 jobs:
-  notify:
+  welcome:
     runs-on: ubuntu-latest
     steps:
-      - name: Comment on PR
+      - name: Post Welcome Comment
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PR_NUMBER: ${{ github.event.pull_request.number }}
-          REPO: ${{ github.repository }}
-          ACTOR: ${{ github.actor }}
+          PR_URL: ${{ github.event.pull_request.html_url }}
         run: |
-          gh pr comment "$PR_NUMBER" \
-            --repo "$REPO" \
-            --body "👋 สวัสดีครับคุณ @$ACTOR ! ขอบคุณที่ Contribute นะครับ (Test Bot บน Fork สำเร็จแล้ว! ✅)"
+          # ใช้คำสั่ง gh pr comment (เจาะจงกว่า gh issue comment)
+          gh pr comment "$PR_URL" --body "👋 สวัสดีครับคุณ @${{ github.actor }}! 
+          
+          ขอบคุณที่มาร่วม Contribute ในโปรเจกต์นี้นะครับ! 🎉
+          ระบบได้รับ PR เรียบร้อยแล้ว เดี๋ยวเพื่อนผม (เจ้าของ Repo) จะรีบมาตรวจสอบครับ
+          
+          (Automated by GitHub Actions 🤖)"
