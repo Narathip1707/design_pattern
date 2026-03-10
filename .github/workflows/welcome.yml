@@ -1,0 +1,32 @@
+name: Test Welcome Bot (Fixed)
+on:
+  pull_request:
+    # ✅ เพิ่ม synchronize (ตอน push แก้) และ reopened (ตอนเปิดใหม่)
+    types: [opened, synchronize, reopened] 
+
+permissions:
+  pull-requests: write # ขอสิทธิ์เขียนคอมเมนต์
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. เพิ่ม Checkout เพื่อให้ GitHub รู้จัก Context ของ Repo ดีขึ้น
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      # 2. ส่วนคอมเมนต์ (ปรับ Syntax ให้ปลอดภัยที่สุด)
+      - name: Comment on PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          REPO: ${{ github.repository }}
+          ACTOR: ${{ github.actor }}
+        run: |
+          gh pr comment "$PR_NUMBER" \
+            --repo "$REPO" \
+            --body "🤖 **Test Bot**: ทำงานแล้วครับ! (Updated Trigger)
+            
+            คุณ @$ACTOR เพิ่งทำการ Push หรือ Open PR นี้
+            
+            Status: ✅ Success"
