@@ -8,7 +8,7 @@ namespace FacadeNara
     private Portfolio portfolio;
     private NotificationService notification;
 
-    // private Wallet wallet = new Wallet(); กรณีสร้างอ็อบเจกต์เองภายในฟาซาด
+
 
     public TradingFacade(Wallet w, MarketService m, Portfolio p, NotificationService n)
     {

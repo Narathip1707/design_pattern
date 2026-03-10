@@ -14,6 +14,7 @@ namespace MoodWorld
             worldA.SetMood(MoodType.Happy);
             worldA.SetMoodLevel(80);
             worldA.SetMoodMessage("โลกแฮปปี้");
+            worldA.ShowMoodStatus();
 
             //B
             MoodManager world2 = MoodManager.GetInstance();

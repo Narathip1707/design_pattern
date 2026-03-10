@@ -166,14 +166,14 @@ namespace TravelBuilder
         public void BuildQuickTrip(string name)
         {
             this.builder.Reset();
-            builder.BuildName(name);
+            builder.BuildName(name); // ทำไมใช้ this.builder ไม่ได้ เพราะ this.builder เป็นตัวแปรของคลาส Director และไม่สามารถใช้ this ในการเรียกเมธอดของ Builder ได้โดยตรง ต้องใช้ builder.BuildName(name) แทน
             this.builder.BuildFlight();
             this.builder.BuildHotel();
         }
         public void BuilderFullPackageTrip(string name)
         {
             this.builder.Reset();
-            builder.BuildName(name);
+            builder.BuildName(name); 
             this.builder.BuildFlight();
             this.builder.BuildHotel();
             this.builder.BuildActivity();

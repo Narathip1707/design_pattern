@@ -20,7 +20,7 @@ namespace FacadeNara
             secureApp.ExecuteTrade("GOOGL", 5);  // ซื้อหุ้น Google
             secureApp.ExecuteTrade("AMZN", 100); // ลองซื้อเยอะๆ เพื่อดูระบบเช็กเงิน
 
-
+        
 
             // Console.WriteLine("=== Nara Trading System ===\n");
 
@@ -32,7 +32,6 @@ namespace FacadeNara
             // tradeApp.ExecuteTrade("GOOGL", 5);  // ซื้อหุ้น Google
             // tradeApp.ExecuteTrade("AMZN", 100); // ลองซื้อเยอะๆ เพื่อดูระบบเช็กเงิน
 
-            Console.ReadLine();
         }
     }
 }

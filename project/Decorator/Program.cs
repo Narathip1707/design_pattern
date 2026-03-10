@@ -154,10 +154,16 @@ namespace DecoratorStreaming
             ISubscription premiumPlan = new UltraHD_Decorator(new NoAdsDecorator(yourPlan));
             Display(premiumPlan);
 
-            ISubscription myplan2 = new NoAdsDecorator(new FullHD_Decorator(new BasicPlan("Benyapha")));
-            Display(myplan2);
+            ISubscription myplanALL = new NoAdsDecorator(new FullHD_Decorator(new BasicPlan("Benyapha")));
+            Display(myplanALL);
 
             Console.WriteLine("\n----------------------------------");
+
+            ISubscription seenPlan = new BasicPlan("Seen");
+            seenPlan = new FullHD_Decorator(seenPlan);
+            seenPlan = new NoAdsDecorator(seenPlan);
+            Display(seenPlan);
+
             
             Console.ReadLine();
         }

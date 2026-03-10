@@ -299,14 +299,16 @@ class Program
             
         }
 
+        FootballShirt[] cloned101 =  new FootballShirt[10];
 
         // สั่งซื้อหลายชิ้นจากร้าน
-        for (int i = 0; i < 5; i++)
-        {
-            Console.WriteLine($"\nOrder #5 - Shirt {i + 1}:");
-            FootballShirt order5 = registry.GetById(101);
 
-            order5.ShowDetails();
+        Console.WriteLine("Clone 101");
+        for (int i = 0; i < 10; i++)
+        {
+            Console.WriteLine($"\nClone101 Shirt {i + 1}:");
+            cloned101[i] = registry.GetById(101).Clone();
+            cloned101[i].ShowDetails();
             Console.WriteLine();
         }
 

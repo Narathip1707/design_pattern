@@ -1,0 +1,15 @@
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Strategy\bin\Debug\net10.0\Strategy.exe
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Strategy\bin\Debug\net10.0\Strategy.deps.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Strategy\bin\Debug\net10.0\Strategy.runtimeconfig.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Strategy\bin\Debug\net10.0\Strategy.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Strategy\bin\Debug\net10.0\Strategy.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Strategy\obj\Debug\net10.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Strategy\obj\Debug\net10.0\Strategy.AssemblyInfoInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Strategy\obj\Debug\net10.0\Strategy.AssemblyInfo.cs
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Strategy\obj\Debug\net10.0\Strategy.csproj.CoreCompileInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Strategy\obj\Debug\net10.0\Strategy.sourcelink.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Strategy\obj\Debug\net10.0\Strategy.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Strategy\obj\Debug\net10.0\refint\Strategy.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Strategy\obj\Debug\net10.0\Strategy.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Strategy\obj\Debug\net10.0\Strategy.genruntimeconfig.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Strategy\obj\Debug\net10.0\ref\Strategy.dll

@@ -25,12 +25,12 @@ public class GrabSystem
 
     public string FetchGrabStore()
     {
-        return startPoint;
+        return $"[GRAB_API] => Location: {startPoint}";
     }
 
     public string GetDropPoint()
     {
-        return dropPoint;
+        return $"[GRAB_API] => Target: {dropPoint}";
     }
 
     public double CalculateGrabCost()
@@ -59,11 +59,11 @@ public class LineManSystem
     }
     public string GetLMAddress()
     {
-        return lmAddress;
+        return $"[LineMan_API] => Location: {lmAddress}";
     }
     public string GetCustomerAddress()
     {
-        return customerAddress;
+        return $"[LineMan_API] => Customer Address: {customerAddress}";
     }
     public double CalculateLineManCost()
     {
