@@ -1,0 +1,15 @@
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Facade\bin\Debug\net10.0\Facade.exe
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Facade\bin\Debug\net10.0\Facade.deps.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Facade\bin\Debug\net10.0\Facade.runtimeconfig.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Facade\bin\Debug\net10.0\Facade.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Facade\bin\Debug\net10.0\Facade.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Facade\obj\Debug\net10.0\Facade.GeneratedMSBuildEditorConfig.editorconfig
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Facade\obj\Debug\net10.0\Facade.AssemblyInfoInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Facade\obj\Debug\net10.0\Facade.AssemblyInfo.cs
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Facade\obj\Debug\net10.0\Facade.csproj.CoreCompileInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Facade\obj\Debug\net10.0\Facade.sourcelink.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Facade\obj\Debug\net10.0\Facade.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Facade\obj\Debug\net10.0\refint\Facade.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Facade\obj\Debug\net10.0\Facade.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Facade\obj\Debug\net10.0\Facade.genruntimeconfig.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Facade\obj\Debug\net10.0\ref\Facade.dll

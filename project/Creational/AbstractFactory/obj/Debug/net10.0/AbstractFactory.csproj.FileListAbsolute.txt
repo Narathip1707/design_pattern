@@ -1,0 +1,15 @@
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\AbstractFactory\bin\Debug\net10.0\AbstractFactory.exe
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\AbstractFactory\bin\Debug\net10.0\AbstractFactory.deps.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\AbstractFactory\bin\Debug\net10.0\AbstractFactory.runtimeconfig.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\AbstractFactory\bin\Debug\net10.0\AbstractFactory.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\AbstractFactory\bin\Debug\net10.0\AbstractFactory.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\AbstractFactory\obj\Debug\net10.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\AbstractFactory\obj\Debug\net10.0\AbstractFactory.AssemblyInfoInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\AbstractFactory\obj\Debug\net10.0\AbstractFactory.AssemblyInfo.cs
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\AbstractFactory\obj\Debug\net10.0\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\AbstractFactory\obj\Debug\net10.0\AbstractFactory.sourcelink.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\AbstractFactory\obj\Debug\net10.0\AbstractFactory.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\AbstractFactory\obj\Debug\net10.0\refint\AbstractFactory.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\AbstractFactory\obj\Debug\net10.0\AbstractFactory.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\AbstractFactory\obj\Debug\net10.0\AbstractFactory.genruntimeconfig.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\AbstractFactory\obj\Debug\net10.0\ref\AbstractFactory.dll

@@ -1,0 +1,15 @@
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\State\bin\Debug\net10.0\State.exe
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\State\bin\Debug\net10.0\State.deps.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\State\bin\Debug\net10.0\State.runtimeconfig.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\State\bin\Debug\net10.0\State.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\State\bin\Debug\net10.0\State.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\State\obj\Debug\net10.0\State.GeneratedMSBuildEditorConfig.editorconfig
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\State\obj\Debug\net10.0\State.AssemblyInfoInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\State\obj\Debug\net10.0\State.AssemblyInfo.cs
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\State\obj\Debug\net10.0\State.csproj.CoreCompileInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\State\obj\Debug\net10.0\State.sourcelink.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\State\obj\Debug\net10.0\State.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\State\obj\Debug\net10.0\refint\State.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\State\obj\Debug\net10.0\State.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\State\obj\Debug\net10.0\State.genruntimeconfig.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\State\obj\Debug\net10.0\ref\State.dll

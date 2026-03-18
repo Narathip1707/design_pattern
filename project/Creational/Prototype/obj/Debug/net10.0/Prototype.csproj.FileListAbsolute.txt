@@ -1,0 +1,15 @@
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Prototype\bin\Debug\net10.0\Prototype.exe
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Prototype\bin\Debug\net10.0\Prototype.deps.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Prototype\bin\Debug\net10.0\Prototype.runtimeconfig.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Prototype\bin\Debug\net10.0\Prototype.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Prototype\bin\Debug\net10.0\Prototype.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Prototype\obj\Debug\net10.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Prototype\obj\Debug\net10.0\Prototype.AssemblyInfoInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Prototype\obj\Debug\net10.0\Prototype.AssemblyInfo.cs
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Prototype\obj\Debug\net10.0\Prototype.csproj.CoreCompileInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Prototype\obj\Debug\net10.0\Prototype.sourcelink.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Prototype\obj\Debug\net10.0\Prototype.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Prototype\obj\Debug\net10.0\refint\Prototype.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Prototype\obj\Debug\net10.0\Prototype.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Prototype\obj\Debug\net10.0\Prototype.genruntimeconfig.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Prototype\obj\Debug\net10.0\ref\Prototype.dll

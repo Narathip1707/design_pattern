@@ -1,0 +1,15 @@
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Observe\bin\Debug\net10.0\Observe.exe
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Observe\bin\Debug\net10.0\Observe.deps.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Observe\bin\Debug\net10.0\Observe.runtimeconfig.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Observe\bin\Debug\net10.0\Observe.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Observe\bin\Debug\net10.0\Observe.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Observe\obj\Debug\net10.0\Observe.GeneratedMSBuildEditorConfig.editorconfig
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Observe\obj\Debug\net10.0\Observe.AssemblyInfoInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Observe\obj\Debug\net10.0\Observe.AssemblyInfo.cs
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Observe\obj\Debug\net10.0\Observe.csproj.CoreCompileInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Observe\obj\Debug\net10.0\Observe.sourcelink.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Observe\obj\Debug\net10.0\Observe.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Observe\obj\Debug\net10.0\refint\Observe.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Observe\obj\Debug\net10.0\Observe.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Observe\obj\Debug\net10.0\Observe.genruntimeconfig.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Observe\obj\Debug\net10.0\ref\Observe.dll

@@ -1,0 +1,15 @@
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Singletion\obj\Debug\net10.0\Singletion.GeneratedMSBuildEditorConfig.editorconfig
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Singletion\obj\Debug\net10.0\Singletion.AssemblyInfoInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Singletion\obj\Debug\net10.0\Singletion.AssemblyInfo.cs
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Singletion\obj\Debug\net10.0\Singletion.csproj.CoreCompileInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Singletion\obj\Debug\net10.0\Singletion.sourcelink.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Singletion\bin\Debug\net10.0\Singletion.exe
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Singletion\bin\Debug\net10.0\Singletion.deps.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Singletion\bin\Debug\net10.0\Singletion.runtimeconfig.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Singletion\bin\Debug\net10.0\Singletion.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Singletion\bin\Debug\net10.0\Singletion.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Singletion\obj\Debug\net10.0\Singletion.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Singletion\obj\Debug\net10.0\refint\Singletion.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Singletion\obj\Debug\net10.0\Singletion.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Singletion\obj\Debug\net10.0\Singletion.genruntimeconfig.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Singletion\obj\Debug\net10.0\ref\Singletion.dll

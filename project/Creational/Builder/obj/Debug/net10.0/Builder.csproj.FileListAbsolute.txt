@@ -1,0 +1,15 @@
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Builder\obj\Debug\net10.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Builder\obj\Debug\net10.0\Builder.AssemblyInfoInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Builder\obj\Debug\net10.0\Builder.AssemblyInfo.cs
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Builder\obj\Debug\net10.0\Builder.csproj.CoreCompileInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Builder\obj\Debug\net10.0\Builder.sourcelink.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Builder\bin\Debug\net10.0\Builder.exe
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Builder\bin\Debug\net10.0\Builder.deps.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Builder\bin\Debug\net10.0\Builder.runtimeconfig.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Builder\bin\Debug\net10.0\Builder.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Builder\bin\Debug\net10.0\Builder.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Builder\obj\Debug\net10.0\Builder.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Builder\obj\Debug\net10.0\refint\Builder.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Builder\obj\Debug\net10.0\Builder.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Builder\obj\Debug\net10.0\Builder.genruntimeconfig.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Builder\obj\Debug\net10.0\ref\Builder.dll

@@ -1,0 +1,15 @@
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\FacadeAndProxy\bin\Debug\net10.0\FacadeAndProxy.exe
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\FacadeAndProxy\bin\Debug\net10.0\FacadeAndProxy.deps.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\FacadeAndProxy\bin\Debug\net10.0\FacadeAndProxy.runtimeconfig.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\FacadeAndProxy\bin\Debug\net10.0\FacadeAndProxy.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\FacadeAndProxy\bin\Debug\net10.0\FacadeAndProxy.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\FacadeAndProxy\obj\Debug\net10.0\FacadeAndProxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\FacadeAndProxy\obj\Debug\net10.0\FacadeAndProxy.AssemblyInfoInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\FacadeAndProxy\obj\Debug\net10.0\FacadeAndProxy.AssemblyInfo.cs
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\FacadeAndProxy\obj\Debug\net10.0\FacadeAndProxy.csproj.CoreCompileInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\FacadeAndProxy\obj\Debug\net10.0\FacadeAndProxy.sourcelink.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\FacadeAndProxy\obj\Debug\net10.0\FacadeAndProxy.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\FacadeAndProxy\obj\Debug\net10.0\refint\FacadeAndProxy.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\FacadeAndProxy\obj\Debug\net10.0\FacadeAndProxy.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\FacadeAndProxy\obj\Debug\net10.0\FacadeAndProxy.genruntimeconfig.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\FacadeAndProxy\obj\Debug\net10.0\ref\FacadeAndProxy.dll
