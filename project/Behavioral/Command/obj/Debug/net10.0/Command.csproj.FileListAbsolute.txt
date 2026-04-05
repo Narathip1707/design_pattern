@@ -1,0 +1,15 @@
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Command\bin\Debug\net10.0\Command.exe
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Command\bin\Debug\net10.0\Command.deps.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Command\bin\Debug\net10.0\Command.runtimeconfig.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Command\bin\Debug\net10.0\Command.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Command\bin\Debug\net10.0\Command.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Command\obj\Debug\net10.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Command\obj\Debug\net10.0\Command.AssemblyInfoInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Command\obj\Debug\net10.0\Command.AssemblyInfo.cs
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Command\obj\Debug\net10.0\Command.csproj.CoreCompileInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Command\obj\Debug\net10.0\Command.sourcelink.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Command\obj\Debug\net10.0\Command.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Command\obj\Debug\net10.0\refint\Command.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Command\obj\Debug\net10.0\Command.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Command\obj\Debug\net10.0\Command.genruntimeconfig.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Command\obj\Debug\net10.0\ref\Command.dll

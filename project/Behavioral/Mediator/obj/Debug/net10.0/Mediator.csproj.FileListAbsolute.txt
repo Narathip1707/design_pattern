@@ -1,0 +1,15 @@
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Mediator\bin\Debug\net10.0\Mediator.exe
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Mediator\bin\Debug\net10.0\Mediator.deps.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Mediator\bin\Debug\net10.0\Mediator.runtimeconfig.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Mediator\bin\Debug\net10.0\Mediator.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Mediator\bin\Debug\net10.0\Mediator.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Mediator\obj\Debug\net10.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Mediator\obj\Debug\net10.0\Mediator.AssemblyInfoInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Mediator\obj\Debug\net10.0\Mediator.AssemblyInfo.cs
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Mediator\obj\Debug\net10.0\Mediator.csproj.CoreCompileInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Mediator\obj\Debug\net10.0\Mediator.sourcelink.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Mediator\obj\Debug\net10.0\Mediator.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Mediator\obj\Debug\net10.0\refint\Mediator.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Mediator\obj\Debug\net10.0\Mediator.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Mediator\obj\Debug\net10.0\Mediator.genruntimeconfig.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Mediator\obj\Debug\net10.0\ref\Mediator.dll

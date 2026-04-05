@@ -1,0 +1,15 @@
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\ChainOfResponsibility\bin\Debug\net10.0\ChainOfResponsibility.exe
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\ChainOfResponsibility\bin\Debug\net10.0\ChainOfResponsibility.deps.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\ChainOfResponsibility\bin\Debug\net10.0\ChainOfResponsibility.runtimeconfig.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\ChainOfResponsibility\bin\Debug\net10.0\ChainOfResponsibility.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\ChainOfResponsibility\bin\Debug\net10.0\ChainOfResponsibility.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\ChainOfResponsibility\obj\Debug\net10.0\ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\ChainOfResponsibility\obj\Debug\net10.0\ChainOfResponsibility.AssemblyInfoInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\ChainOfResponsibility\obj\Debug\net10.0\ChainOfResponsibility.AssemblyInfo.cs
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\ChainOfResponsibility\obj\Debug\net10.0\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\ChainOfResponsibility\obj\Debug\net10.0\ChainOfResponsibility.sourcelink.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\ChainOfResponsibility\obj\Debug\net10.0\ChainOfResponsibility.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\ChainOfResponsibility\obj\Debug\net10.0\refint\ChainOfResponsibility.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\ChainOfResponsibility\obj\Debug\net10.0\ChainOfResponsibility.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\ChainOfResponsibility\obj\Debug\net10.0\ChainOfResponsibility.genruntimeconfig.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\ChainOfResponsibility\obj\Debug\net10.0\ref\ChainOfResponsibility.dll

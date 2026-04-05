@@ -1,0 +1,15 @@
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Visitor\bin\Debug\net10.0\Visitor.exe
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Visitor\bin\Debug\net10.0\Visitor.deps.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Visitor\bin\Debug\net10.0\Visitor.runtimeconfig.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Visitor\bin\Debug\net10.0\Visitor.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Visitor\bin\Debug\net10.0\Visitor.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Visitor\obj\Debug\net10.0\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Visitor\obj\Debug\net10.0\Visitor.AssemblyInfoInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Visitor\obj\Debug\net10.0\Visitor.AssemblyInfo.cs
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Visitor\obj\Debug\net10.0\Visitor.csproj.CoreCompileInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Visitor\obj\Debug\net10.0\Visitor.sourcelink.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Visitor\obj\Debug\net10.0\Visitor.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Visitor\obj\Debug\net10.0\refint\Visitor.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Visitor\obj\Debug\net10.0\Visitor.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Visitor\obj\Debug\net10.0\Visitor.genruntimeconfig.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Visitor\obj\Debug\net10.0\ref\Visitor.dll
