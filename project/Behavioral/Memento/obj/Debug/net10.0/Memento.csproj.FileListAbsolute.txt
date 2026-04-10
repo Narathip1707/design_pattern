@@ -1,0 +1,15 @@
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Memento\bin\Debug\net10.0\Memento.exe
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Memento\bin\Debug\net10.0\Memento.deps.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Memento\bin\Debug\net10.0\Memento.runtimeconfig.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Memento\bin\Debug\net10.0\Memento.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Memento\bin\Debug\net10.0\Memento.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Memento\obj\Debug\net10.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Memento\obj\Debug\net10.0\Memento.AssemblyInfoInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Memento\obj\Debug\net10.0\Memento.AssemblyInfo.cs
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Memento\obj\Debug\net10.0\Memento.csproj.CoreCompileInputs.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Memento\obj\Debug\net10.0\Memento.sourcelink.json
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Memento\obj\Debug\net10.0\Memento.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Memento\obj\Debug\net10.0\refint\Memento.dll
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Memento\obj\Debug\net10.0\Memento.pdb
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Memento\obj\Debug\net10.0\Memento.genruntimeconfig.cache
+D:\ru_com_sci\COS\ALLCOS 2.68\COS4311 2.68\project\Behavioral\Memento\obj\Debug\net10.0\ref\Memento.dll
